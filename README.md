@@ -25,3 +25,10 @@ En este proyecto, encontrarás dos carpetas que contienen los conjuntos de datos
 La carpeta de datos es el punto de partida, donde podrás explorar los conjuntos de datos tal como se obtuvieron inicialmente. Estos datos pueden requerir un procesamiento adicional antes de poder utilizarlos en el análisis.
 
 Por otro lado, la carpeta de [datos_limpios](https://github.com/mwmartinez/Analisis_Internet/tree/main/datos_limpios) contiene los conjuntos de datos procesados y listos para su análisis. Durante el proceso de ETL, se realizaron diversas transformaciones, como la limpieza de datos erróneos o incompletos, la normalización de formatos y la integración de diferentes fuentes de datos. Esto garantiza que los conjuntos de datos estén en un estado óptimo para su uso en el análisis de telecomunicaciones en Argentina.
+
+## Analis Exploratorio De Datos
+Para realizar el EDA se utilizó Python con librerías de Numpy, Pandas, Matplotlib y Seaborn, entre otras. Se pueden visualizar las transformaciones y los análisis realizados en el siguiente archivo [eda](https://github.com/mwmartinez/Analisis_Internet/blob/main/eda.ipynb)
+
+## Importacion a power bi y modelado de datos
+se realizo el siguiente modelo de datos ![Logo](https://github.com/mwmartinez/Analisis_Internet/blob/main/src/modelo.png)
+
