@@ -105,7 +105,7 @@ Es importante considerar que estos análisis se basan en los datos proporcionado
 
 ## conclusiones
 
-onclusiones generales del análisis de datos de telecomunicaciones en Argentina:
+Conclusiones generales del análisis de datos de telecomunicaciones en Argentina:
 
 Tendencia hacia mayores velocidades de conexión: El análisis de la velocidad de conexión revela una tendencia positiva hacia velocidades más altas, con un aumento en la adopción de velocidades de 10 Mbps a 30 Mbps. Sin embargo, todavía hay una proporción considerable de usuarios con velocidades moderadas, lo que sugiere que existe margen de mejora en términos de velocidad y calidad de conexión.
 
